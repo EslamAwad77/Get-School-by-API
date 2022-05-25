@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-NetworkingAndAPIs-NetworkingAndAPIsUITests/Pods-NetworkingAndAPIs-NetworkingAndAPIsUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ESPullToRefresh/ESPullToRefresh.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/PaginatedTableView/PaginatedTableView.framework
+${BUILT_PRODUCTS_DIR}/PullToRefresher/PullToRefresh.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

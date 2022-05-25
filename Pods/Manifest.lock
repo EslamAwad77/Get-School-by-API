@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.5.0)
+  - ESPullToRefresh (2.9.3)
+  - GoogleMaps (6.2.1):
+    - GoogleMaps/Maps (= 6.2.1)
+  - GoogleMaps/Base (6.2.1)
+  - GoogleMaps/Maps (6.2.1):
+    - GoogleMaps/Base
+  - Kingfisher (7.2.2)
+  - PaginatedTableView (1.0.1)
+  - PullToRefresher (3.3)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESPullToRefresh
+  - GoogleMaps
+  - Kingfisher
+  - PaginatedTableView
+  - PullToRefresher
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ESPullToRefresh
+    - GoogleMaps
+    - Kingfisher
+    - PaginatedTableView
+    - PullToRefresher
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  GoogleMaps: 20d7b12be49a14287f797e88e0e31bc4156aaeb4
+  Kingfisher: 184d4d1a8c36666e663caf8e08abe87898595c53
+  PaginatedTableView: 294d9831d5ddf5c0dcfbb4a281d4fcfb8d12f55a
+  PullToRefresher: 6fc2ab6494caf949bcf6f0223ffd23f9d21a06f6
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 8f33704a87a91bf23986b06b70640c6ed631745b
+
+COCOAPODS: 1.11.2
